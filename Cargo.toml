@@ -1,0 +1,8 @@
+[package]
+name = "send-sync-static"
+version = "1.0.0"
+edition = "2021"
+description = "This crate fulfills the simple purpose of marking a type as Send, Sync, and 'static"
+repository = "https://github.com/A248/send-sync-static"
+license = "Apache-2.0"
+rust-version = "1.56"
